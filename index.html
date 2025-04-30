@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Anju's portfolio showcasing web development projects and skills.">
+  <meta name="keywords" content="portfolio, web development, coding, Anju">
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body class="home-page">
+
+  <!-- Navigation Bar -->
+  <header>
+    <h1>Welcome to My Portfolio</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="nav-btn active">Home</a></li>
+        <li><a href="About.html" class="nav-btn">About</a></li>
+        <li><a href="Education.html" class="nav-btn">Education</a></li>
+        <li><a href="Experience.html" class="nav-btn">Experience</a></li>
+        <li><a href="Projects.html" class="nav-btn">Projects</a></li>
+        <li><a href="Hobbies.html" class="nav-btn">Hobbies</a></li>
+        <li><a href="Contact.html" class="nav-btn">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- About Me Section -->
+  <section class="profile-section">
+
+    <!-- Hidden checkbox for toggle zoom -->
+    <input type="checkbox" id="profile-toggle" hidden>
+
+    <!-- Clickable profile image -->
+    <div class="profile-image-container">
+    <label for="profile-toggle">
+      <img src="Anju_2.png" alt="Profile Picture" class="profile-img">
+    </label>
+
+    <!-- About text -->
+    <div class="profile-text">
+      <h2>About Me</h2>
+      <p class="intro-line"><em>A passionate coder, a continuous learner and<br> a future tech innovator.</em></p>
+      <p>Hi! I'm <strong>Anju</strong>, an MCA student, passionate coder and aspiring web developer with a love for clean, functional design.</p>
+      <p>I enjoy turning ideas into meaningful websites — and I believe there's always something new to learn.</p>
+
+      <div class="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>HTML, CSS, JavaScript(Learning)</li>
+          <li>C, C++, Java</li>
+          <li>Problem Solving</li>
+          <li>Responsive Web Design</li>
+        </ul>
+      </div>    
+    </div>
+
+    <!-- Fullscreen Zoomed Image -->
+    <div class="overlay">
+      <label for="profile-toggle">
+        <img src="Anju_2.png" alt="Zoomed Profile" class="zoom-img">
+      </label>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy;2025 BuildWithAnju. All rights reserved.</p>
+    <div class="social-links">
+      <a href="https://linkedin.com/in/anju-dhiman-7214a5327" target = "_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://github.com/BuildWithAnju" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+    </div>
+  </footer>
+
+</body>
+</html>
