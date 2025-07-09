@@ -250,8 +250,3 @@ footer {
     background-color: #118ab2;
     transform: scale(1.05);
 }
-
-.profile-text ul li {
-  margin-bottom: 2rem; 
-  line-height: 1.6;
-}
