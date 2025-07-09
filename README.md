@@ -52,12 +52,15 @@ Here is the screenshot of my project
 ## Folder Structure
 
 Portfolio/
-│
 ├── index.html
+├── About.html
+├── Contact.html
+├── Education.html
+├── Experience.html
+├── Hobbies.html
+├── Projects.html
 ├── style.css
-├── script.js
-├── assets/
-│ └── preview.png (optional)
+├── Anju_2.png
 └── README.md
 
 
