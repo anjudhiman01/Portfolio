@@ -179,7 +179,11 @@ label:hover .profile-img {
     box-shadow: 0 8px 40px rgba(0,0,0,0.1);
     animation: fadeInUp 1s ease-in-out;
   }
-  
+
+.projects-section ul li {
+  margin-bottom: 30px; 
+}
+
   @keyframes fadeInUp {
     from {
       opacity: 0;
