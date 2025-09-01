@@ -15,7 +15,6 @@
 
 
 
-
 ---
 
 ## Overview
@@ -27,7 +26,7 @@ Designed to showcase my skills, projects, and contact information — all in one
 
 ## Live Website
 
-🔗 [techyAnju.github.io/Portfolio](https://techyAnju.github.io/Portfolio/)
+🔗 [anjudhiman01.github.io/Portfolio](https://anjudhiman01.github.io/Portfolio/)
 
 ---
 
@@ -76,7 +75,7 @@ Portfolio/
 ## Contact Me
 
 - Email: [anjudhiman7044@google.com] 
-- GitHub: [https://github.com/techyAnju](https://github.com/techyAnju)
+- GitHub: [https://github.com/anjudhiman01](https://github.com/anjudhiman01)
 - LinkedIn: [https://www.linkedin.com/in/anju-dhiman01]
 
 ---
