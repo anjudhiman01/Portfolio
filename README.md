@@ -1,7 +1,7 @@
 <h1 align="center">Anju Dhiman – Developer Portfolio</h1>
 
 <p align="center">
-  <a href="https://techyAnju.github.io/Portfolio/" target="_blank">
+  <a href="https://anjudhiman01.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
